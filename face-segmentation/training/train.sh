@@ -1,0 +1,1 @@
+python main.py "../subsamples/" "../exp/" --batchsize 16
